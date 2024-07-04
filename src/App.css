@@ -1,5 +1,5 @@
 .App {
-  font-family: "Arial", sans-serif;
+  font-family: 'Arial', sans-serif;
   text-align: center;
   margin-top: 50px;
 }
@@ -12,6 +12,7 @@ input {
   padding: 10px;
   margin-right: 10px;
   font-size: 16px;
+  background-color: #282c34;
 }
 
 button {
@@ -52,9 +53,6 @@ li {
 .completed {
   text-decoration: line-through;
 }
-
-
-
 
 /* 
 const addTask = () => {
